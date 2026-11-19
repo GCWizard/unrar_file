@@ -1,4 +1,4 @@
-#import "UnrarFilePlugin.h"
+#import "./include/unrar_file/UnrarFilePlugin.h"
 @import UnrarKit;
 
 static inline NSString* NSStringFromBOOL(BOOL aBool) {

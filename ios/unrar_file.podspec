@@ -15,7 +15,7 @@ A new flutter plugin project.
 
 
   s.source_files = [
-  'Classes/**/*',
+  'unrar_file/Sources/unrar_file/**/*',
   ]
 
   s.dependency 'Flutter'
